@@ -2,7 +2,7 @@
 
 Object Detection using Haar Cascade Classifier
 
-![](./README_images/video_example.gif)
+![](./README_images/video demo.mov)
 
 ## Introduction
 
