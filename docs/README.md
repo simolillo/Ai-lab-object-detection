@@ -21,7 +21,7 @@ The training of a Cascade Classifier involves many steps starting from the creat
 
 Don't forget the audio!
 
-![](./README_images/video_demo.mov)
+https://github.com/simolillo/Ai-lab-object-detection/assets/104793343/7821f808-2afa-4100-92f8-28c5c69c03a7
 
 ## Cascade Classifier Training
 
