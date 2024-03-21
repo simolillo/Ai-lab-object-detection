@@ -17,6 +17,12 @@ The reason for this is that Cascade Classifiers represent a compromise between *
 
 The training of a Cascade Classifier involves many steps starting from the creation of the data set.
 
+## Full demo
+
+Don't forget the audio!
+
+![](./README_images/video_demo.mov)
+
 ## Cascade Classifier Training
 
 In order to train a Cascade Classifier we need first and foremost:
